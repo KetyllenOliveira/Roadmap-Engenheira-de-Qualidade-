@@ -43,7 +43,7 @@ Tudo isso para apoiar seu aprendizado, estudos para entrevistas, preparação pa
 
 ## Sobre mim
 
-Olá! Sou Ketyllen Emily, estudante e profissional em transição para a área de QA, apaixonada por tecnologia, testes e qualidade de software. Aqui compartilho meus estudos para ajudar quem, como eu, quer crescer e evoluir na carreira de Engenharia de Qualidade.
+Olá! Sou Ketyllen Emily, estudante e profissional na área de QA, apaixonada por tecnologia, testes e qualidade de software. Aqui compartilho meus estudos para ajudar quem, como eu, quer crescer e evoluir na carreira de Engenharia de Qualidade.
 
 ---
 
