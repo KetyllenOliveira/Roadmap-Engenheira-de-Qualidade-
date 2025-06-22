@@ -56,7 +56,7 @@ Olá! Sou Ketyllen Emily, estudante e profissional na área de QA, apaixonada po
 
 ## Licença
 
-Este projeto está sob a licença MIT — sinta-se livre para usar e compartilhar!
+Este projeto está sob a licença MIT | sinta-se livre para usar e compartilhar!
 
 ---
 
